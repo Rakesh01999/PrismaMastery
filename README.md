@@ -1,4 +1,4 @@
-# 📚 PrismaMastery
+# PrismaMastery
 
 Welcome to the **PrismaMastery** repository!  
 This project is part of the **Prisma**, a modern and powerful database toolkit for **Node.js** and **TypeScript**.
@@ -10,7 +10,7 @@ This project is part of the **Prisma**, a modern and powerful database toolkit f
 Prisma simplifies database access by providing a type-safe and auto-generated query builder.  
 It enables developers to build scalable, efficient, and maintainable applications with ease.
 
-Through this repository, you'll learn how to:
+Through this repository, learning :
 - Set up Prisma with PostgreSQL
 - Perform CRUD operations
 - Handle relations between models
@@ -29,7 +29,7 @@ Through this repository, you'll learn how to:
 
 ---
 
-## 📁 Course Coverage
+## 📁 Coverage
 
 ✅ Prisma Setup  
 ✅ Schema Modeling  
@@ -57,9 +57,3 @@ Through this repository, you'll learn how to:
 
 ---
 
-## ✅ Getting Started
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/PrismaMastery.git
-   cd PrismaMastery
