@@ -1,8 +1,7 @@
 # 📚 PrismaMastery
 
 Welcome to the **PrismaMastery** repository!  
-This project is part of the **Advanced Web Development** course by [Programming Hero](https://web.programming-hero.com/).  
-Here you'll master **Prisma**, a modern and powerful database toolkit for **Node.js** and **TypeScript**.
+This project is part of the **Prisma**, a modern and powerful database toolkit for **Node.js** and **TypeScript**.
 
 ---
 
