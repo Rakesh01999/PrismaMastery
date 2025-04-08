@@ -1,3 +1,4 @@
+// comments removed
 
 generator client {
   provider = "prisma-client-js"
