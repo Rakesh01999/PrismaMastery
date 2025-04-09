@@ -10,9 +10,4 @@ datasource db {
 }
 
 
-generator client2 {
-  provider = "prisma-client-js"
-  provider1 = "prisma-client-js"
-}
-
 
