@@ -24,13 +24,12 @@ const main = async () => {
     // find unique and find unique or throw error
     const findUnique = await prisma.post.findUniqueOrThrow({
         where: {
-            // id: 4
-            id: 2
+            id: 10
         },
         select: {
             title: true,
-            // content: true,
-            // authorName: true
+            content: true,
+            authorName: true
         }
     })
 
