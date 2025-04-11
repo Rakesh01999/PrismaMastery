@@ -42,6 +42,9 @@ const main = async () => {
                     //     }
                     // },
                     {
+                        categoryId: 1
+                    },
+                    {
                         categoryId: 3
                     },
                     {
