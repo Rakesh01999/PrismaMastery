@@ -13,22 +13,22 @@ const relationalQueries = async () => {
         //     post: true
         // }
     // });
-    // }).profile();
-    }).post();
+    }).profile();
+    // }).post();
 
-    console.log(result);
+    // console.log(result);
 
     // relational fillters
-    // const publishedPostUsers = await prisma.user.findMany({
-    //     include: {
-    //         post: {
-    //             where: {
-    //                 published: true
-    //             }
-    //         }
-    //     }
-    // })
-    // console.dir(publishedPostUsers, { depth: Infinity })
+    const publishedPostUsers = await prisma.user.findMany({
+        include: {
+            post: {
+                where: {
+                    published: true
+                }
+            }
+        }
+    })
+    console.dir(publishedPostUsers, { depth: Infinity })
 };
 
 relationalQueries();
