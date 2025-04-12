@@ -1,4 +1,4 @@
-# PrismaMastery
+# PrismaMastery ---
 
 Welcome to the **PrismaMastery** repository!  
 This project is part of the **Prisma**, a modern and powerful database toolkit for **Node.js** and **TypeScript**.
